@@ -19,4 +19,4 @@ Landing page desenvolvida para o Studio LKR com foco em presença digital e dire
 Criar uma página elegante e objetiva para reunir os principais canais de atendimento e redes sociais do Studio LKR em um só lugar.
 
 ## Preview
-Link da página: [adicionar depois com GitHub Pages]
+Link da página: https://kaianemenezes.github.io/StudioLKR/
